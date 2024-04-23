@@ -20,5 +20,7 @@ private:
 	string namamk;
 	int sks;
 public:
+	void input() {
 
+	}
 };
