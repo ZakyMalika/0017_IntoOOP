@@ -29,5 +29,10 @@ public:
 };
 
 int main() {
+	BangunDatar pp; //deklarasi objek pp dari class BANGUNDATAR
+	pp.input();
+	pp.display();
+
+	return 0;
 
 }
