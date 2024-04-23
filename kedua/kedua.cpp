@@ -27,3 +27,7 @@ public:
 
 	}
 };
+
+int main() {
+
+}
