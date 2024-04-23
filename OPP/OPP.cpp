@@ -16,4 +16,9 @@ public: //akses modifier
 
 class Matakuliah {
 private:
+	string kodemk;
+	string namamk;
+	int sks;
+
+
 };
