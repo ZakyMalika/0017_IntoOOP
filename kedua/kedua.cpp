@@ -16,5 +16,7 @@ public:
 
 	}
 
-
+	float hitungluas() {
+		return panjang * lebar;
+	}
 };
