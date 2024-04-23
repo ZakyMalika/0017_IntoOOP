@@ -21,6 +21,11 @@ private:
 	int sks;
 public:
 	void input() {
-
+		cout << "Kode MK: ";
+		cin >> kodemk;
+		cout << "Nama MK: ";
+		cin >> namamk;
+		cout << "SKS: ";
+		cin >> sks;
 	}
 };
