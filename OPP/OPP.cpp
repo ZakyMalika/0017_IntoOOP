@@ -29,6 +29,8 @@ public:
 		cin >> sks;
 	}
 	void output() {
-
+		cout << "Kode MK: " << kodemk << endl;
+		cout << "Nama MK: " << namamk << endl;
+		cout << "SKS: " << sks << endl;
 	}
 };
